@@ -1,7 +1,7 @@
 # Site settings
 title: François Nicholas # site title
 description: >- # site description
-  Engineer, Technologist, Investor
+  Engineer, Technologist, Investor. San Francisco Bay Area
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,6 +13,7 @@ author:
   name: François Nicholas # author name
   bio: >- # tell to the world
     Engineer, Technologist, Investor
+  geo: San Francisco Bay Area
   username: francoisnicholas # general username
   github: francoisnicholas # github username
   email: francis.nicholas@gmail.com # email adress
