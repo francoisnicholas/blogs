@@ -13,8 +13,11 @@ layout: page
 San Francisco Bay Area
 
 [www.linkedin.com/in/francoisnicholas](http://www.linkedin.com/in/francoisnicholas)
+
 [www.francoisnicholas.com](http://www.francoisnicholas.com)
+
 [francis.nicholas@gmail.com](mailto:francis.nicholas@gmail.com)
+
 240.381.1020
 
  
