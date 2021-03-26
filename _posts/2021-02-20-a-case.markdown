@@ -3,6 +3,7 @@ layout: post
 title:  "A Case Against Currency Devaluation for Developing Countries"
 date:   2021-02-20 19:56:20 -0700
 tags: [economics]
+permalink: "/devaluation-developing-countries/"
 ---
 
 ## Introduction: Appearances Can Be Deceiving
@@ -31,9 +32,10 @@ From a very strong Nigerian Naira after securing independence from its formal co
 
 Upon my analysis, I find myself with more questions rather than answers.
 
-How many African or developing countries that followed the economic models of these powerful financial institutions are better off today?
-When countries in the West suffer economic recessions, why do they not swallow the bitter pill of devaluation as a way out?
-What have been the gains of the aggressive devaluation of the Nigerian Naira over the years?
+* How many African or developing countries that followed the economic models of these powerful financial institutions are better off today?
+* When countries in the West suffer economic recessions, why do they not swallow the bitter pill of devaluation as a way out?
+* What have been the gains of the aggressive devaluation of the Nigerian Naira over the years?
+
 In 2008, the United States found itself bankrupt at the end of President Bush’s ill-advised administration. It took his successor, President Obama, with the consent of the United States Congress to launch massive soft socialist bailout initiatives, which benefited the big banks to my dismay, to slowly accelerate the economy while striking a delicate balance with American psychic that has been so blinded by extreme Capitalism and Individualism to restore the country on the path of prosperity. The majority of nations in the European Union have, on various occasions, slump but never had to devalue their currencies to the level they want Nigerian Naira to be, not even profoundly bankrupt Greece despite tough negotiations with Germany and the European Union.
 
 It’s disturbing that the majority of the finance ministers, secretaries, and governors of the national banks of these developing countries are all educated at prestigious colleges and universities in the West. But, continue to apply these demulcent measures to their countries economy without much to show for it, let alone write home about. Instead, these leaders have only made their respective countries worse for it.
