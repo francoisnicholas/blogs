@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Case Against Currency Devaluation for Developing Countries"
-date:   2021-02-20 19:56:20 -0700
+title:  "foo"
+date:   2021-03-01 19:56:20 -0700
 tags: [economics]
 permalink: "/devaluation-developing-countries/"
 ---
