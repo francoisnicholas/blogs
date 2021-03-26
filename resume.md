@@ -5,25 +5,17 @@ layout: page
 ---
 
 **François Nicholas**
-
 **Technologist, Senior Engineering Manager**
-
 **Aspiring Venture Capitalist**
-
 San Francisco Bay Area
-
 [www.linkedin.com/in/francoisnicholas](http://www.linkedin.com/in/francoisnicholas)
-
 [www.francoisnicholas.com](http://www.francoisnicholas.com)
-
 [francis.nicholas@gmail.com](mailto:francis.nicholas@gmail.com)
-
 240.381.1020
 
  
 
 **Overview**
-
 ** **
 
 François joins PlayStation™ in 2020 as a Senior Engineering Manager,
