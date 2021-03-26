@@ -3,7 +3,7 @@ layout: post
 title:  "A Case Against Currency Devaluation for Developing Countries"
 date:   2021-02-20 19:56:20 -0700
 tags: [economics]
-permalink: "/devaluation-developing-countries/"
+permalink: "/a-case-against-currency-devaluation-for-developing-countries/"
 ---
 
 ## Introduction: Appearances Can Be Deceiving
