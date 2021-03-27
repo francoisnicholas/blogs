@@ -11,10 +11,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: François Nicholas # author name
   bio: > # tell to the world
-      Senior Engineer @ PlayStation.
-      <br> Technologist & Venture Capitalist.
-      Manchester City, F.C.
-      John Coltrane.
+      Senior Engineering Manager @ PlayStation.
   geo: San Francisco Bay Area
   username: francoisnicholas # general username
   github: francoisnicholas # github username
