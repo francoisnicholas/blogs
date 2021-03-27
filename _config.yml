@@ -10,7 +10,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: François Nicholas # author name
-  bio: >- # tell to the world
+  bio: > # tell to the world
       Senior Engineer @ PlayStation.
       Technologist & Venture Capitalist.
       Manchester City, F.C.
