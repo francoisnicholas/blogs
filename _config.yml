@@ -1,7 +1,6 @@
 # Site settings
 title: François Nicholas # site title
 description: >- # site description
-  Senior Engineer @ PlayStation. Technologist & Venture Capitalist. Manchester City, F.C. John Coltrane
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +11,10 @@ mode: light # default theme "dark" | "light"
 author:
   name: François Nicholas # author name
   bio: >- # tell to the world
-    Engineer, Technologist, Investor
+      Senior Engineer @ PlayStation. 
+      Technologist & Venture Capitalist. 
+      Manchester City, F.C. 
+      John Coltrane
   geo: San Francisco Bay Area
   username: francoisnicholas # general username
   github: francoisnicholas # github username
