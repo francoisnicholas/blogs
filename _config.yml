@@ -1,7 +1,11 @@
 # Site settings
 title: François Nicholas # site title
 description: >- # site description
-  Engineer, Technologist, Investor. San Francisco Bay Area
+  #Engineer, Technologist, Investor. San Francisco Bay Area
+  Senior Engineer @ PlayStation.
+  Technologist, Venture Capitalist
+  Manchester City, F.C
+  John Coltrane
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
