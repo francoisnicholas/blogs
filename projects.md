@@ -1,5 +1,6 @@
 ---
 title: Projects
+
 permalink: /projects/
 layout: page
 excerpt: 
@@ -33,7 +34,7 @@ FaceIQ is a standalone API service to provide facial data to power insights (sha
 ### 2019 | DITTO - Frame Recommendation Engine (FrameIQ)
 The FrameIQ API is an HTTP-based RESTful API, using JSON-encoded messages to pass arguments and return responses to recommend frames based on an individual's facial characteristics, prescription, and preferences.
 
-### 2019 | DITTO-  Segment Pixel Tracker & Conversion Analytics
+### 2019 | DITTO -  Segment Pixel Tracker & Conversion Analytics
 Implement image-based tracking pixels & conversion analytics to track & collect data on client eCommerce website so that DITTO can best provide data-driven insights to aid clients to achieve more conversion success.
 
 ### 2019 | DITTO - Software Engineering Leveling Guide
