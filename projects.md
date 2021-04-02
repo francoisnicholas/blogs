@@ -10,11 +10,8 @@ excerpt:
 ### 2020  | PlayStation - PlayStation 5 Launch Incident Management
 François was amongst the three Support Group Leaders for all things PlayStation 5 Launch Incident Management for the Cloud Engineering and Operations organization. He oversaw all backend services uptime and made executive decisions during live incidents to remediate service outages as fast as possible.
 
-### 2020 | PlayStation - PlayStation 5 Launch Incident Management
-Sponsored a POC to evaluate Amazon Keyspaces as a replacement for CassandraDB to improve and secure our data layer in a cost-effective fashion.
-
 ### 2020 | Playstation - ScyllaDB as a replacement for CassandraDB
-Sponsored a POC to evaluate ScyllaDB as a replacement for CassandraDB to improve and secure our data layer in a cost-efficient fashion.
+Sponsored a POC to evaluate Amazon Keyspaces & ScyllaDB as a replacement for CassandraDB to improve and secure our data layer in a cost-efficient fashion.
 
 ### 2020 | Playstation - CloudData PlayStation 5 Readiness
 François led the CloudData Operations Team by working closely with all stakeholders & internal applications teams to ensure that the data layer is secure, durable, resilient, scalable, & highly available to meet estimated demands for all PlayStation 5 traffic while continuing to provide a seamless experience for our PlayStation 4 customers & gamers.
