@@ -3,7 +3,7 @@ title: Bio
 permalink: /bio/
 layout: page
 excerpt: François joins PlayStation™ in 2020 as a Senior Engineering Manager, where he leads & manages the Data Platform Reliability Engineering Teams ―Cloud Data & Model Operations Engineering Teams within the Cloud Engineering & Operations organization.
-comments: true
+comments: false
 ---
 ## Intro
 François joins PlayStation™ in 2020 as a Senior Engineering Manager, where he leads & manages the Data Platform Reliability Engineering Teams ―Cloud Data & Model Operations Engineering Teams within the Cloud Engineering & Operations organization.
