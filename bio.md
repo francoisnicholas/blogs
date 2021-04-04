@@ -45,7 +45,7 @@ Homelessness.
 
 
 ### What's the most useful business-related book you've ever read?
-Crossing the Chasm by Geoffrey Moore.
+Crossing the Chasm by Geoffrey Moore, and Stakeholder Capitalism by Klaus Schwab
 
 ### What's your favorite non-business book?
 Meditations by Marcus Aurelius
