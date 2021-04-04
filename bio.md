@@ -67,7 +67,7 @@ These are the set of beliefs or aims that guide his actions & decisions:
 * Place all bets on Uncertainty.
 
 ### If money were not an issue, what would you be doing right now?
-* I will continue to assist businesses to innovate by leveraging the power of the public cloud and open-source technology.
+* Continue to assist businesses to innovate by leveraging the power of the public cloud and open-source technology.
 
 ### What words of advice would you give your younger self?
 * Place all bets on Uncertainty.
