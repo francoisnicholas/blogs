@@ -82,7 +82,7 @@ A Love Supreme is my personal favorite of his work. If you want something more p
 
 Coltrane’s story taught me to live the most minimalist life, embrace the art of plain-speaking, and the framework of quiet leadership. It has been a blessing to be a student of his life and work and to have his music be a source of comfort and inspiration during my most difficult years in the United States.
 
-## Part V: “Think different”―Steve Jobs
+## Part V: “You have to react differently and behave differently.”―Howard Marks
 In a sense, the most impactful people I know are often the ones who have a hell-raiser trait in them, regardless of whether this comes from nature or nurture. These are people who think differently, feel different, behave differently. These are the people who can’t easily fit into the square box.
 
 People both value and despise them. They make people uncomfortable. They challenge thoughts, processes, and the status quo. They disrupt and dismiss. They push. They raise the bar for everyone else, and they call people out. They’re not being difficult on purpose — they’re being themselves. They see things differently. And, that comes with both opportunities and challenges. I must attest that I am extremely guilty of these traits and behavior in every aspect of my being.
