@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "An Immigrant: A Short Memoir"
+title:  "Keep The Immigrants, Deport The Racists: A Short Memoir"
 date:   2021-01-23 19:56:20 -0700
 tags: [life]
-permalink: "/an-immigrant-a-short-memoir/"
+permalink: "/keep-the-immigrants-deport-the-racists-a-short-memoir/"
 ---
 
 ## Part I: “Life can only be understood backwards, but it must be lived forwards.”―Soren Kirkegaard
