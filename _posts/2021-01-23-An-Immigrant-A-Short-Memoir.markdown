@@ -78,7 +78,7 @@ I feel Coltrane single-handedly represents the struggle and all the demons we fa
 
 Coltrane was able to accomplish this through Jazz by playing his saxophone despite being set against all social, political, and cultural lands of his time. His action demonstrates one of courage and the true definition of accountability. He went on to create boundary-shattering Jazz records that continue to influence all music genres to this day.
 
-A Love Supreme is my personal favorite of his work. If you want something more profound and intellectually stimulating, I recommend his Jazz album Ascension recorded in June 1965 and released in 1966. 
+A Love Supreme is my personal favorite of his work. I also recommend his Jazz album Ascension recorded in June 1965 and released in 1966, if you want something more profound, deep, and intellectually stimulating. 
 
 Coltrane’s story taught me to live the most minimalist life, embrace the art of plain-speaking, and the framework of quiet leadership. It has been a blessing to be a student of his life and work and to have his music be a source of comfort and inspiration during my most difficult years in the United States.
 
