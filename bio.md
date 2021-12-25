@@ -47,7 +47,7 @@ These are the set of beliefs or aims that guide his actions & decisions:
 ### What's your favorite non-business book?
 * Meditations by Marcus Aurelius.
 * Incerto Series by Nassim Nicholas Taleb
-** Fooled By Randomness: The Hidden Role of Chance in Life and in the Markets
+  * Fooled By Randomness: The Hidden Role of Chance in Life and in the Markets
 
 
 ### What's the most creative thing you've ever done?
