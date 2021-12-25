@@ -48,6 +48,10 @@ These are the set of beliefs or aims that guide his actions & decisions:
 * Meditations by Marcus Aurelius.
 * Incerto Series by Nassim Nicholas Taleb
   * Fooled By Randomness: The Hidden Role of Chance in Life and in the Markets
+  * The Black Swan: The Impact of the Highly Improbable
+  * Antifragile: Things That Gain from Disorder
+  * The Bed of Procrustes: Philosophical and Practical Aphorisms
+  * Skin in the Game: Hidden Asymmetries in Daily Life
 
 
 ### What's the most creative thing you've ever done?
