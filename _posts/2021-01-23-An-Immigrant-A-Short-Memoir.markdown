@@ -3,7 +3,7 @@ layout: post
 title:  "I'll Not Yield: A Short Memoir"
 date:   2021-01-23 19:56:20 -0700
 tags: [life]
-permalink: "/an-immigrant-a-short-memoir/"
+permalink: "/i-ll-not-yeild-a-short-memoir/"
 ---
 
 ## Part I: “Life can only be understood backwards, but it must be lived forwards.”―Soren Kirkegaard
