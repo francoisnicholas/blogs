@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Immigrant: A Short Memoir"
+title:  "I'll Not Yield: A Short Memoir"
 date:   2021-01-23 19:56:20 -0700
 tags: [life]
 permalink: "/an-immigrant-a-short-memoir/"
