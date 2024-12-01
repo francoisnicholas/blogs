@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building High-Performance Teams"
-date:   2024-09-08 19:56:20 -0700
+date:   2024-10-08 19:56:20 -0700
 tags: [Leadership]
 permalink: "/building-high-performance-teams/"
 ---
