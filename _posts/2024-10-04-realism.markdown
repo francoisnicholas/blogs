@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Realism and the Complexity of Contemporary International Relations: A Critical Analysis of Stephen Walt’s Call to Think Like a Realist"
-date:   2024-10-04 19:56:20 -0700
+title: "Realism and the Complexity of Contemporary International Relations"
+date: 2024-10-04 19:56:20 -0700
 tags: [Foreign Affairs]
 permalink: "/realism-and-the-complexity-of-contemporary-international-relations/"
 ---
