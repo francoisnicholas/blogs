@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strategies to Prevent Groupthink in High-Performing Tech Teams to Foster Continuous Innovation"
+title: "Strategies to Prevent Groupthink in High-Performing Tech Teams"
 date: 2024-10-17 19:56:20 -0700
 tags: [Leadership]
 permalink: "/strategies-to-prevent-groupthink-in-high-performing-tech-teams/"
