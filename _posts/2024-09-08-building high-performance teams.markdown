@@ -2,7 +2,7 @@
 layout: post
 title:  "Building High-Performance Teams"
 date:   2024-09-08 19:56:20 -0700
-tags: [Management, Leadership, Technology, Collaboration, Teamwork]
+tags: [Management Leadership Technology Collaboration Teamwork]
 permalink: "/building-high-performance-teams/"
 ---
 
